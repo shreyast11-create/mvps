@@ -9,7 +9,7 @@ Each MVP is documented in its own markdown file, following a consistent format f
 ## 📚 How to Use This Repository
 
 - Each MVP is fully described in a separate markdown file in this repo.
-- Interactive versions (such as Google Sheets) are linked within each MVP’s markdown.
+- Read-only versions (such as Google Sheets) are linked within each MVP’s markdown. Instructions are present on how to use them interactively.
 - Every MVP write-up includes:
     - **Welcome & Overview**
     - **How to Use**
