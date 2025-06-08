@@ -13,6 +13,9 @@ This sheet helps growing creators estimate and analyze their potential revenue f
 
 ### How to Use
 
+- The above link provides view-only (read-only) access to the original template.
+- **To use the simulator interactively:**
+   Go to **File > Make a copy** in Google Sheets to save your own editable version to your Google Drive.
 - Input your data in the “Input” tab — follower count, engagement rate, revenue rates, and more.  
 - See calculated KPIs and revenue breakdowns in the “Calculations” tab.  
 - Explore visual summaries with charts on the “Dashboard” tab.  
